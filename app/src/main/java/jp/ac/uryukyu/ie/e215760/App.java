@@ -5,7 +5,7 @@ package jp.ac.uryukyu.ie.e215760;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World!22222";
     }
 
     public static void main(String[] args) {
